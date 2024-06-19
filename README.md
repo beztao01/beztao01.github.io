@@ -2,6 +2,6 @@
 
 ## Sitio de Fernando Sandoval
 
-Aspirante a desarrollador, Diselador industrial y mercadólogo, 
+Aspirante a desarrollador, Diseñador industrial y mercadólogo, 
 
 Prueba de subida desde gitBash
